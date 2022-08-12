@@ -5,6 +5,7 @@ const _ = require("lodash");
 const dotenv = require("dotenv");
 
 dotenv.config();
+
 const app = express();
 
 app.set('view engine', 'ejs');
