@@ -9,7 +9,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/book/en
 
 Clone this repository
 ```
-https://github.com/samueldiaz1004/ToDoList
+https://github.com/samueldiaz1004/ToDoList.git
 ```
 
 Install the packages
